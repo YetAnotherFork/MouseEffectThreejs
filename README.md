@@ -1,6 +1,6 @@
 # Mouse Effect with Three.js Instancing
 
-Demo for tutorial on creating interactive mouse effects with Three.js instancing.
+Demo for tutorial on creating interactive mouse effects with Three.js instancing. By [Daniel Velasquez](https://twitter.com/Anemolito)
 
 ![Mouse effect](https://tympanus.net/codrops/wp-content/uploads/2023/12/instancing.jpg)
 
@@ -39,8 +39,3 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 [MIT](LICENSE)
 
 Made with :blue_heart:  by [Codrops](http://www.codrops.com)
-
-
-
-
-
